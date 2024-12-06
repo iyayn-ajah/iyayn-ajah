@@ -1,7 +1,7 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://files.catbox.moe/kq0udf.gif" />
+  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
 </p>
 
 - 👋 Hi, I’m Rapikz
