@@ -1,17 +1,17 @@
-### :About Me :
+### About Me :
 
 <p align="center">
-  <img src="https://files.catbox.moe/gztxw5.gif" />
+  <img src="https://files.catbox.moe/kq0udf.gif" />
 </p>
 
 - 👋 Hi, I’m Rapikz
 - ❎ I'm still learning
 - 👨🏻‍🦱 15 years old
-- 🇮🇳 Currently living in Indonesian
+- 😊 I'm frim Indonesia
 
 ---
 
-### :How To Reach Me :
+### How To Reach Me :
 <p align="center">
 <a href="https://youtube.com/@sharescbyrapikzajah
 "><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
@@ -23,7 +23,7 @@
 
 ---
 
-### :Repo Stats : 
+### Repo Stats : 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rapikz-kwontwol&repo=SC-Bot-WA-Ajah&theme=radical)
 
 ---
