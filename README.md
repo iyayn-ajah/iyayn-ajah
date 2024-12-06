@@ -1,7 +1,7 @@
 ### :About Me :
 
 <p align="center">
-  <img src="https://files.catbox.moe/puega9.jpg" />
+  <img src="https://files.catbox.moe/gztxw5.gif" />
 </p>
 
 - 👋 Hi, I’m Rapikz
