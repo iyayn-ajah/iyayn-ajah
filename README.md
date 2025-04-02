@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Rapikz
 - ❎ I'm still learning
-- 👨🏻‍🦱 15 years old
+- 👨🏻‍🦱 16 years old
 - 😊 I'm from Indonesia
 
 ---
