@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    Saya seorang <strong>pelajar</strong> dan <strong>pengembang</strong> dari <strong>Indonesia</strong>. Walaupun kadang rasa malas datang, semangat saya untuk <strong>belajar hal baru</strong> tidak pernah padam. Saya lahir pada 18 April 2009.
+Saya seorang <strong>pelajar</strong> dan <strong>pengembang</strong> dari <strong>Indonesia</strong>. Saya hanya seorang pemalas. Saya lahir pada 18 April 2009.
 </p>
 
 ---
