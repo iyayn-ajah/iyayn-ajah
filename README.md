@@ -14,6 +14,10 @@
     <p>My date of birth is April 18, 2009.</p>
 </div>
 
+<p align="center">
+  <a href="[https://github.com/sanzydev](https://github.com/Rapikz-kwontwol)"> <img  alt="SanzyDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rapikz-kwontwol?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+
+
 <h2 align="center">📊 Stats</h2> 
   <div align="center"> 
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rapikz-kwontwol&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
