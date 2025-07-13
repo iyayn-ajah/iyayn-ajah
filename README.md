@@ -10,7 +10,7 @@
     <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
     <p>My date of birth is April 18, 2009.</p>
 </div>
----
+
 
 ### My social media :
 <li><a href="https://t.me/AfiqQifa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
@@ -18,6 +18,6 @@
                     <li><a href="https://www.instagram.com/rapikuzu_desu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="rounded-md"></a></li>
                     <li><a href="https://github.com/Rapikz-kwontwol" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="rounded-md"></a></li>
 
----
+
 
 
