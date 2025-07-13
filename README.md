@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+Afiq;+I'm+a+beginner;" />
+</h1>
 ### About Me :
 
 <p align="center">
@@ -17,6 +20,7 @@
                     <li><a href="https://whatsapp.com/channel/0029VaoJb11LikgEpNpBty0e" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" class="rounded-md"></a></li>
                     <li><a href="https://www.instagram.com/rapikuzu_desu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="rounded-md"></a></li>
                     <li><a href="https://github.com/Rapikz-kwontwol" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="rounded-md"></a></li>
+
 
 
 
