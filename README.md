@@ -25,7 +25,7 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rapikz-kwontwol&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+###
 <img width="10000" height="10000" src="https://github-profile-trophy.vercel.app/?username=Rapikz-kwontwol&no-bg=true&no-frame=false&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 
