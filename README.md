@@ -26,7 +26,8 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rapikz-kwontwol&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-https://github-profile-trophy.vercel.app/?username=Rapikz-kwontwol&no-bg=true&no-frame=true&rank=-?&theme=darkhub
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Rapikz-kwontwol&no-bg=false&no-frame=false&rank=-?&theme=" align="center"/>
+<br/><br/>
 
 ### My social media :
 <li><a href="https://t.me/AfiqQifa" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
