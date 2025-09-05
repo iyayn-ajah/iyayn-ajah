@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="[https://github.com/Rapikz-kwontwol](https://github.com/iyayn-ajah)"> <img  alt="Iyayn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rapikz-kwontwol?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="[https://github.com/iyayn-ajah](https://github.com/iyayn-ajah)"> <img  alt="Iyayn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/iyayn-ajah?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 <h2 align="center">📊 Stats</h2>
