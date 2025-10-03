@@ -40,6 +40,8 @@
 ---
 
 ### 🛠️ Tools
+| Technology |
+|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **GitHub** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **VS Code** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Replit** |
