@@ -13,7 +13,60 @@
     <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
     <p>My date of birth is April 18, 2009.</p>
 </div>
+---
 
+## 🧠 My Skills
+
+### ⚙️ Frontend
+
+| Technology      | Level     | Notes        |
+|------------------|-----------|--------------|
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML** | Beginner | Learning, AI-assisted |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS** | Beginner | Learning, AI-assisted |
+| ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) **Tailwind CSS** | Full AI-Assisted | — |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript (Frontend)** | Beginner | Learning, AI-assisted |
+
+### 🔧 Backend
+
+| Technology      | Level     | Notes        |
+|------------------|-----------|--------------|
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript (Backend)** | Beginner | Learning, AI-assisted |
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js** | Beginner | Learning, AI-assisted |
+| ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js** | Beginner | Learning, AI-assisted |
+
+### 🛠️ Tools
+
+| Tool             | Icon                                                                 |
+|------------------|----------------------------------------------------------------------|
+| **GitHub**       | ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) |
+| **VS Code**      | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
+| **Replit**       | ![Replit](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg) |
+| **Vercel**       | ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) |
+| **Netlify**      | ![Netlify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg) |
+
+---
+
+## 🚀 My Projects
+
+Here are some of the projects I’ve built and deployed. Most are experimental and were created as part of my learning journey.
+
+| Project Title | Link |
+|---------------|------|
+| **Rest API** | [Visit](https://api.rapikzyeah.biz.id/) |
+| **Rest API Downloader** | [Visit](https://api-downloader.zone.id/) |
+| **File Uploader** | [Visit](https://www.aplotpelrapikz.my.id/) |
+| **Meme Generator** | [Visit](https://smeme.rapikzyeah.biz.id/) |
+| **Bratvid Generator** | [Visit](https://bratvidgenerator.netlify.app/) |
+| **Image Tools** | [Visit](https://imagetools.rapikzyeah.biz.id/) |
+| **Skin Darkener** | [Visit](https://wpk.rapikzyeah.biz.id/) |
+| **Audio Transcripter** | [Visit](https://audiotranscript.zone.id/) |
+| **Get Lyrics (Indonesia)** | [Visit](https://dapatkanlirikdariaudio.zone.id/) |
+| **Get Lyrics (Global)** | [Visit](https://getlyricsfromaudio.zone.id/) |
+| **Myana AI Chat** | [Visit](https://myanakyutyawu-ai.zone.id/) |
+| **YouTube Downloader** | [Visit](https://ytdl.zone.id/) |
+| **WhatsApp Bot** | _Private Project_ 🔒 |
+
+---
 <p align="center">
   <a href="[https://github.com/iyayn-ajah](https://github.com/iyayn-ajah)"> <img  alt="Iyayn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/iyayn-ajah?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
