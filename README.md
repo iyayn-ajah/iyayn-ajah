@@ -24,7 +24,7 @@
 |------------|--------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **HTML** | Beginner | Learning, AI-assisted |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **CSS** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Tailwind CSS** | Full AI-Assisted | — |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Tailwind CSS** | Beginner | Learning, AI-assisted |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **JavaScript (Frontend)** | Beginner | Learning, AI-assisted |
 
 ---
