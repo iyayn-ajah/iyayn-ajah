@@ -13,6 +13,7 @@
     <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
     <p>My date of birth is April 18, 2009.</p>
 </div>
+
 ---
 
 ## 🧠 My Skills
