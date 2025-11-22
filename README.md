@@ -81,8 +81,6 @@
 </div>
 
 
-<img width="50000" height="50000" src="https://github-profile-trophy.vercel.app/?username=iyayn-ajah&no-bg=true&no-frame=false&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
 
 ### My social media :
 <li><a href="https://t.me/AfiqAjah" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
