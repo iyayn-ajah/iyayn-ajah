@@ -51,8 +51,7 @@
 
 | Project | Link |
 |--------|------|
-| **Rest API** | [Visit](https://api.rapikzyeah.biz.id/) |
-| **Rest API Downloader** | [Visit](https://api-downloader.zone.id/) |
+| **Rest API** | [Visit](https://api.iyayn.web.id/) |
 | **File Uploader** | [Visit](https://www.aplotpelrapikz.my.id/) |
 | **Meme Generator** | [Visit](https://smeme.rapikzyeah.biz.id/) |
 | **Bratvid Generator** | [Visit](https://bratvidgenerator.netlify.app/) |
