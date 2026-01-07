@@ -51,16 +51,15 @@
 | Project | Link |
 |--------|------|
 | **Rest API** | [Visit](https://api.iyayn.web.id/) |
-| **File Uploader** | [Visit](https://www.aplotpelrapikz.my.id/) |
+| **File Uploader** | [Visit](https://upf.iyayn.web.id/) |
 | **Meme Generator** | [Visit](https://smeme.rapikzyeah.biz.id/) |
 | **Bratvid Generator** | [Visit](https://bratvidgenerator.netlify.app/) |
-| **Image Tools** | [Visit](https://imagetools.rapikzyeah.biz.id/) |
-| **Skin Darkener** | [Visit](https://wpk.rapikzyeah.biz.id/) |
 | **Audio Transcripter** | [Visit](https://audiotranscript.zone.id/) |
 | **Get Lyrics (Indonesia)** | [Visit](https://dapatkanlirikdariaudio.zone.id/) |
 | **Get Lyrics (Global)** | [Visit](https://getlyricsfromaudio.zone.id/) |
 | **Myana AI Chat** | [Visit](https://myanakyutyawu-ai.zone.id/) |
 | **YouTube Downloader** | [Visit](https://ytdl.zone.id/) |
+| **YouTube MP3 Downloader** | [Visit](https://ytmp3.zone.id/) |
 | **WhatsApp Bot** | _Private Project_ 🔒 |
 
 ---
