@@ -31,6 +31,8 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **JavaScript (Backend)** | Beginner | Learning, AI-assisted |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Node.js** | Beginner | Learning, AI-assisted |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Express.js** | Beginner | Learning, AI-assisted |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Python** | Beginner | Learning, AI-assisted |
+
 
 ---
 
