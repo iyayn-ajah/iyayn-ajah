@@ -5,8 +5,8 @@
 
 <div class="text-lg leading-relaxed space-y-3">
     <p>Hi, my name is <strong class="text-indigo-600">Shikaku Iyayn Ajah</strong>.</p>
-    <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
-    <p>My date of birth is April 18, 2009.</p>
+    <p>I'm always lazy</p>
+    <p>My date of birth is 18 April 2009.</p>
 </div>
 
 ---
