@@ -54,7 +54,7 @@
 |--------|------|
 | **Rest API** | [Visit](https://api.iyayn.web.id/) |
 | **File Uploader** | [Visit](https://upf.iyayn.web.id/) |
-| **Meme Generator** | [Visit](https://smeme.rapikzyeah.biz.id/) |
+| **Meme Generator** | [Visit](https://smeme.iyayn.web.id/) |
 | **Bratvid Generator** | [Visit](https://bratvidgenerator.netlify.app/) |
 | **Audio Transcripter** | [Visit](https://audiotranscript.zone.id/) |
 | **Get Lyrics (Indonesia)** | [Visit](https://dapatkanlirikdariaudio.zone.id/) |
