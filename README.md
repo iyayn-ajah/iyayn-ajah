@@ -12,7 +12,7 @@
 <!-- Tech Stack -->
 <div align="center">
   <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,,tailwind,express&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,tailwind,express&perline=10&theme=dark" />
 </div>
 
 
