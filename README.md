@@ -5,47 +5,16 @@
 
 <div class="text-lg leading-relaxed space-y-3">
     <p>Hi, my name is <strong class="text-indigo-600">Shikaku Iyayn Ajah</strong>.</p>
-    <p>I'm always lazy</p>
     <p>My date of birth is 18 April 2009.</p>
 </div>
 
 ---
+<!-- Tech Stack -->
+<div align="center">
+  <h3>Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,html,css,python,,tailwind,express&perline=10&theme=dark" />
+</div>
 
-## 🧠 My Skills
-
-### ⚙️ Frontend
-
-| Technology | Level | Notes |
-|------------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **HTML** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **CSS** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Tailwind CSS** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **JavaScript (Frontend)** | Beginner | Learning, AI-assisted |
-
----
-
-### 🔧 Backend
-
-| Technology | Level | Notes |
-|------------|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **JavaScript (Backend)** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Node.js** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Express.js** | Beginner | Learning, AI-assisted |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Python** | Beginner | Learning, AI-assisted |
-
-
----
-
-### 🛠️ Tools
-| Technology |
-|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **GitHub** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **VS Code** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Replit** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Vercel** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30" height="30" style="background:white; padding:4px; border-radius:6px;" /> **Netlify** |
-
----
 
 ## 🚀 My Projects
 
