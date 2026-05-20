@@ -5,6 +5,7 @@
 
 <div class="text-lg leading-relaxed space-y-3">
     <p>Hi, my name is <strong class="text-indigo-600">Shikaku Iyayn Ajah</strong>.</p>
+    <p>I'm a programmer skill issue.</p>
     <p>My date of birth is 18 April 2009.</p>
 </div>
 
@@ -17,21 +18,7 @@
 
 
 ## 🚀 My Projects
-
-
-| Project | Link |
-|--------|------|
-| **Rest API** | [Visit](https://api.iyayn.web.id/) |
-| **File Uploader** | [Visit](https://upf.iyayn.web.id/) |
-| **Meme Generator** | [Visit](https://smeme.iyayn.web.id/) |
-| **Bratvid Generator** | [Visit](https://bratvidgenerator.netlify.app/) |
-| **Audio Transcripter** | [Visit](https://audiotranscript.zone.id/) |
-| **Get Lyrics (Indonesia)** | [Visit](https://dapatkanlirikdariaudio.zone.id/) |
-| **Get Lyrics (Global)** | [Visit](https://getlyricsfromaudio.zone.id/) |
-| **Myana AI Chat** | [Visit](https://myanakyutyawu-ai.zone.id/) |
-| **YouTube Downloader** | [Visit](https://ytdl.zone.id/) |
-| **YouTube MP3 Downloader** | [Visit](https://ytmp3.zone.id/) |
-| **WhatsApp Bot** | _Private Project_ 🔒 |
+[Visit](https://iyayn.web.id/)
 
 ---
 
